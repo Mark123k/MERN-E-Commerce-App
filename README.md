@@ -2,17 +2,17 @@ MERN Full Stack E-Commerce App
 Are you looking for a ready-made, feature-rich eCommerce website? I’ve built a complete eCommerce solution using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** with all the essential functionalities you need to launch your online store instantly!
 
 ### **Key Features:**
-✅ **User Authentication** – Secure login/signup using **Firebase Authentication**
-✅ **Product Management** – Add, edit, and delete products effortlessly
-✅ **Image Storage** – Seamless **Cloudinary** integration for product images
-✅ **Secure Payments** – Integrated **Razorpay** for smooth transactions
-✅ **Admin Dashboard** – Manage users, products, orders, and payments
-✅ **Cart & Wishlist** – Allow users to save and purchase products easily
-✅ **Order Management** – Track and update order status
-✅ **Fast & Responsive UI** – Built with React.js and optimized for performance
-✅ **API-Driven Backend** – Secure RESTful APIs with Node.js and Express.js
-✅ **MongoDB Database** – Efficient data handling and storage
-✅ **Fully Customizable** – Modify and scale as per your business needs
+- ✅ **User Authentication** – Secure login/signup using **Firebase Authentication**
+- ✅ **Product Management** – Add, edit, and delete products effortlessly
+- ✅ **Image Storage** – Seamless **Cloudinary** integration for product images
+- ✅ **Secure Payments** – Integrated **Razorpay** for smooth transactions
+- ✅ **Admin Dashboard** – Manage users, products, orders, and payments
+- ✅ **Cart & Wishlist** – Allow users to save and purchase products easily
+- ✅ **Order Management** – Track and update order status
+- ✅ **Fast & Responsive UI** – Built with React.js and optimized for performance
+- ✅ **API-Driven Backend** – Secure RESTful APIs with Node.js and Express.js
+- ✅ **MongoDB Database** – Efficient data handling and storage
+- ✅ **Fully Customizable** – Modify and scale as per your business needs
 
 ### **Why Buy This?**
 - **Save development time & cost** – Get a fully functional eCommerce platform instantly
